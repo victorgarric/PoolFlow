@@ -1,0 +1,5 @@
+/site/
+/PoolFlow.egg-info/
+/docs/
+/build/
+/.pytest_cache/
