@@ -5,7 +5,7 @@ from threading import Thread
 class ServerPool(Thread):
     """
     ServerPool is meant to be reached by any other Python terminal using the SumbitToServer function from PoolFlow.utilities.
-    It is currently highly experimental
+    It is currently highly experimental.
 
     Examples
     --------
