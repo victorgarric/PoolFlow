@@ -4,7 +4,7 @@ import time
 from psutil import virtual_memory as mem
 from threading import Thread
 from .utilities import *
-
+import sys
 
 class StaticPool(Thread):
     """

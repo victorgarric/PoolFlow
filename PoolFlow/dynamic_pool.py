@@ -4,7 +4,7 @@ import time
 from psutil import virtual_memory as mem
 from .utilities import *
 from threading import Thread
-
+import sys
 class DynamicPool(Thread):
     """
     Creates a pool to submit job and manage tasks based on their estimated costs.
