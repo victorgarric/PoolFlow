@@ -35,8 +35,6 @@ plugins:
   - search
 nav:
   - Home: index.md
-  - testing.md
-  - tutorials.md
   - References:
     - reference.md
     - StaticPool : staticpool.md
