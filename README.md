@@ -1,10 +1,10 @@
 # PoolFlow
 
-<center>
+
 
 **A simple process management library**
 
-</center>
+
 
 ## Introduction
 
@@ -18,7 +18,7 @@ The way **PoolFlow** works could be synthesized by the following diagram. A list
 given and the `pool` object manage the available virtual memory, considering the maximum estimated
 cost of the job given by the user.
 
-<center>
+
 
 ``` mermaid
 graph LR
@@ -29,16 +29,15 @@ C-->|Memory available<br>and allocated|D[Job is<br>launched];
 D-->|Job is done<br>memory est released|B;
 
 ```
-</center>
+
 
 ## Installing 
 The only external package **SourceFlow** depends on is `rich`. Install it directly via `pip`:
 
-<center>
 
 `pip install PoolFlow`
 
-</center>
+
 
 ## [Documentation](https://victorgarric.github.io/PoolFlow/)
 
