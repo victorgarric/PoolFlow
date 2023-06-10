@@ -12,7 +12,7 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(name='PoolFlow',
-      version='0.0.4',
+      version='0.0.5',
       description='A simple process management library',
       url='https://victorgarric.github.io/PoolFlow/',
       license='MIT',
