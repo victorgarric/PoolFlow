@@ -40,6 +40,9 @@ The only external package **SourceFlow** depends on is `rich`. Install it direct
 
 </center>
 
+## [Documentation](https://victorgarric.github.io/PoolFlow/)
+
+
 ## Warning and known issues
 
 **PoolFlow** uses management resources via `resource` native package. Due to the way `resource` work, some limitation
