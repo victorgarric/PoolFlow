@@ -1,3 +1,0 @@
-# DynamicPool
-
-::: PoolFlow.DynamicPool

@@ -1,3 +1,0 @@
-# StaticPool
-
-::: PoolFlow.StaticPool
